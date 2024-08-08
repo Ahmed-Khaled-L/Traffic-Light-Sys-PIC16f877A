@@ -1,0 +1,13 @@
+<Active>
+	<Attributes>
+		<Url></Url>
+		<Image></Image>
+		<File></File>
+	</Attributes>
+	<Events>
+		<OnLeftClick></OnLeftClick>
+		<OnRightClick></OnRightClick>
+		<OnDblClick></OnDblClick>
+		<OnMouseOver></OnMouseOver>
+	</Events>
+</Active>

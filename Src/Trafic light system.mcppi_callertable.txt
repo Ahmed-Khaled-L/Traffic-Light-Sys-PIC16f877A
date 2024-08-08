@@ -1,0 +1,10 @@
+main
+	__CC2DW
+		____DoICP
+interrupt
+	Manual
+		Multiplex_4
+			Div_8X8_U
+	Automatic
+		Multiplex_4
+			Div_8X8_U
